@@ -16,9 +16,10 @@
 *Coming soon — check back before the workshop!*
 
 - [x] Setup instructions
-- [ ] Slides & materials
-- [ ] Exercises
-- [ ] Solutions
+- [x] Jupyter notebooks
+  - [x] Exercises
+  - [x] Solutions
+- [ ] Slides & theory notebooks
 
 ## Workshop environment (Jupyter)
 

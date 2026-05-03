@@ -23,6 +23,7 @@ dependencies = [
     "pre-commit>=4.5.1",
     "scipy>=1.13.1",
     "tqdm>=4.66.5",
+    "wandb>=0.26.1",
 ]
 
 [project.optional-dependencies]
