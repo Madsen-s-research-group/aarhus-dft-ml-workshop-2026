@@ -19,7 +19,7 @@
 - [x] Jupyter notebooks
   - [x] Exercises
   - [x] Solutions
-- [ ] Slides & theory notebooks
+- [x] Slides & theory notebooks
 
 ## Workshop environment (Jupyter)
 
