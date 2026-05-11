@@ -13,8 +13,6 @@
 
 ## Contents
 
-*Coming soon — check back before the workshop!*
-
 - [x] Setup instructions
 - [x] Jupyter notebooks
   - [x] Exercises
